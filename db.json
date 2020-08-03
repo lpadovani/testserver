@@ -1,0 +1,25 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "userId": 101,
+      "name": "Alice",
+      "company":"Example Analytics",
+      "interest": "Volatile Foreign ETFS"
+    },
+    {
+      "id": 2,
+      "userId": 102,
+      "name": "Bob",
+      "company":"Example Venture Firm",
+      "interest": "Shorting Loan Tranches"
+    },
+    {
+      "id": 3,
+      "userId": 103,
+      "name": "Carol",
+      "company":"Example Solutions",
+      "interest": "Small Capital European Funds"
+    }
+  ]
+}
